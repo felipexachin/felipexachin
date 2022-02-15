@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @felipexachin
-- 🌱 I’m currently learning apex and swift
+- 🌱 I’m currently learning apex
 - 📫 How to reach me: felipedeoliveiracamargo@gmail.com
